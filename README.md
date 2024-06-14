@@ -11,7 +11,7 @@ The dataset includes 12 columns which are- PassengerId, Survived, Pclass, Name, 
 
 
 
-The model uses Random Forest Classsifier algorithm along with the various data science steps such as analysis, preprocessing, modeling and evaluation.
+The model uses Random Forest Classsifier algorithm along with the various data science steps such as analysis, preprocessing, visualization, modeling and evaluation.
 
 
 
